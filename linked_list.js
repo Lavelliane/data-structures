@@ -56,6 +56,7 @@ class LinkedList {
 }
 
 // Example usage:
+//FIX CONNECT NODES
 const list = new LinkedList();
 list.append(4);
 list.append(5);
